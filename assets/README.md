@@ -1,22 +1,21 @@
 # Public visual assets
 
-This directory contains reviewed public-facing graphics for the RMCA Tephritidae Collection Genomics overview.
+This directory contains the reviewed public-facing graphical overview for the RMCA Tephritidae collection-genomics workflow.
 
-## Published assets
+## Current asset
 
-| Asset | Purpose | Bytes | SHA256 | Git blob |
-| --- | --- | ---: | --- | --- |
-| `collection_genomics_workflow.jpg` | System-level graphical abstract | 247813 | `70bc4eed5b26430e6f14f29bc61c3ccde9876b22eb928324e3e6d1b9d22ef236` | `917ec5cd084b63130b533c674b75dcf05ac65ac1` |
-| `why_this_system_matters.jpg` | Public highlights graphic | 184054 | `8ee7520de14b64622ff1b25490410f4a75693c6a3943ca198b24b166295ee184` | `20554149ded8a87340a524e50679e84b4690ee13` |
+| Asset | Purpose | Bytes | Git blob |
+| --- | --- | ---: | --- |
+| `RMCA_Tephritidae_From_Collections_to_Genomics.png` | Consolidated public overview | 1378517 | `a494f37e219b362e453ee59e18e7449a30100b93` |
 
-The SHA256 values refer to the reviewed JPG files uploaded for publication.
+Featured specimen:
 
-## Taxonomic visual reference
+**RMCA_ENT_000011071**
 
-The fruit-fly imagery is based on the supplied reference photograph of a male *Ceratitis quilicii*.
+*Ceratitis quilicii*
 
-**Fruit fly reference credit: © Antoine Franck / CIRAD.**
+The infographic combines a specimen photograph with explanatory graphical elements. It is intended for communication and workflow orientation, not as a diagnostic taxonomic plate.
 
-Generated infographic elements are explanatory graphics and should not be used as diagnostic taxonomic plates.
+## Retired assets
 
-Where taxonomic accuracy matters, the original credited *C. quilicii* photograph remains the reference.
+The previous two public graphics were deleted after their content was consolidated into this single overview image.
