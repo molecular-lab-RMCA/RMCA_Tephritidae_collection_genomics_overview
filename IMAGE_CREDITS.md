@@ -18,6 +18,11 @@ Generated graphical abstracts use the supplied photograph as the taxonomic visua
 
 The credit should remain associated with public uses of those graphics.
 
+Public graphical assets using this reference:
+
+- `assets/collection_genomics_workflow.jpg`
+- `assets/why_this_system_matters.jpg`
+
 ## Generated graphical material
 
 The graphical abstracts combine scientific information from the project with generated infographic elements.
