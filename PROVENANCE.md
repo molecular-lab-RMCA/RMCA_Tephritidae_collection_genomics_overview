@@ -31,7 +31,22 @@ For each substantive public update, record:
 - notable content changes;
 - image or media credits where applicable.
 
-The initial public publication record will be completed after the first public repository synchronization.
+### Initial publication, 18 October 2026
+
+Private source branch: `public-overview-v1`
+
+Private source commit: `3b418ced65cb7743d6497d006f66f6cb5b01434e`
+
+Public content snapshot after publishing README and technical documents: `1d71da7357c8406c03029f839a95f9dff4b2b6c7`
+
+Published text files:
+
+- `README.md`
+- `TECHNICAL_OVERVIEW.md`
+- `PROVENANCE.md`
+- `IMAGE_CREDITS.md`
+
+The two reviewed graphical abstracts are approved for the public overview but are not included in the content snapshot above. Their publication is recorded separately when the binary image assets are added.
 
 ## Reproducibility principle
 
