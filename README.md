@@ -2,12 +2,10 @@
 
 This directory contains the **public source material** for the RMCA Tephritidae Collection Genomics overview.
 
-The public overview is intended to serve two audiences at the same time:
+The public overview is intended to serve:
 
 1. the general public, students and collaborators who want to understand what the system does and why it matters;
 2. researchers, collection managers, laboratory staff and data stewards who need the conceptual and methodological detail behind the system.
-
-The operational repository remains private because it contains detailed audit evidence, internal source material, operational metadata and local storage information.
 
 ## At a glance
 
