@@ -35,7 +35,9 @@ For each substantive public update, record:
 
 Private source branch: `public-overview-v1`
 
-Private source commit: `3b418ced65cb7743d6497d006f66f6cb5b01434e`
+Reviewed private source commit: `3b418ced65cb7743d6497d006f66f6cb5b01434e`
+
+Canonical private `main` merge commit: `9db5b60daaad22d1ee92b75c321d1e3a930f33e3`
 
 Public content snapshot after publishing README and technical documents: `1d71da7357c8406c03029f839a95f9dff4b2b6c7`
 
