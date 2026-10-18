@@ -13,7 +13,7 @@ The operational repository remains private because it contains detailed audit ev
 
 ![RMCA Tephritidae Collection Genomics workflow](assets/collection_genomics_workflow.jpg)
 
-*Graphical abstract of the five-system workflow. Fruit-fly reference: male* Ceratitis quilicii*, © Antoine Franck / CIRAD.*
+Graphical abstract of the five-system workflow. Fruit-fly reference: male *Ceratitis quilicii*, © Antoine Franck / CIRAD.
 
 ## In plain language
 
@@ -41,7 +41,7 @@ The system is designed around six practical principles:
 
 ![Why this system matters](assets/why_this_system_matters.jpg)
 
-*Public highlights graphic. Fruit-fly reference: male* Ceratitis quilicii*, © Antoine Franck / CIRAD.*
+Public highlights graphic. Fruit-fly reference: male *Ceratitis quilicii*, © Antoine Franck / CIRAD.
 
 ## Core lineage
 
