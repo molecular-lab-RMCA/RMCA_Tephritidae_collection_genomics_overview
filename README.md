@@ -17,6 +17,12 @@ The system is designed to:
 - make data handling reproducible and auditable;
 - support controlled publication of collection information.
 
+## Collaboration and responsible use
+
+Much of the current work on African Tephritidae is developed with African partner institutions and researchers. The system is designed to keep these collaborations visible by linking specimens and genomic resources to projects, partner institutions, permits and transfer or ABS documentation where relevant.
+
+This supports transparent attribution, responsible use and sharing of material and data, and documentation relevant to Nagoya Protocol and national ABS requirements.
+
 ## Core lineage
 
 ```text
