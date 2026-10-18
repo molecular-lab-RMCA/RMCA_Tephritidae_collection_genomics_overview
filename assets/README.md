@@ -14,6 +14,8 @@ Featured specimen:
 
 *Ceratitis quilicii*
 
+Collection specimen image © Royal Museum for Central Africa (RMCA).
+
 The infographic combines a specimen photograph with explanatory graphical elements. It is intended for communication and workflow orientation, not as a diagnostic taxonomic plate.
 
 ## Retired assets
