@@ -78,3 +78,18 @@ Credit-format correction commit: `694b0be9f79cf81dd1dc04771ad1c88d435816e4`
 ## Reproducibility principle
 
 The goal is that a public statement can be traced back to a versioned private source without exposing private collection records, storage paths, raw data or internal audit packages.
+
+
+### Consolidated infographic publication, 18 October 2026
+
+The two earlier public graphics were removed and replaced by one consolidated overview:
+
+`assets/RMCA_Tephritidae_From_Collections_to_Genomics.png`
+
+Git blob: `a494f37e219b362e453ee59e18e7449a30100b93`
+
+File size: `1378517` bytes
+
+Featured specimen: `RMCA_ENT_000011071`, *Ceratitis quilicii*.
+
+The public README was updated to use the consolidated image only and the wording around genomic vouchers was revised to make the voucher-specimen anchoring role explicit.
