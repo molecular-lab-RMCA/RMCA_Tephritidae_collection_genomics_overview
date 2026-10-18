@@ -1,4 +1,4 @@
-# RMCA Tephritidae Collection Genomics
+# RMCA Tephritidae: From Collections to Genomics
 
 This directory contains the **public-safe source material** for the RMCA Tephritidae Collection Genomics overview.
 
@@ -11,9 +11,9 @@ The operational repository remains private because it contains detailed audit ev
 
 ## At a glance
 
-![RMCA Tephritidae Collection Genomics workflow](assets/collection_genomics_workflow.jpg)
+![RMCA Tephritidae: From Collections to Genomics](assets/RMCA_Tephritidae_From_Collections_to_Genomics.png)
 
-Graphical abstract of the five-system workflow. Fruit-fly reference: male *Ceratitis quilicii*, © Antoine Franck / CIRAD.
+Graphical overview of the workflow linking collection vouchers, laboratory records, genomic files, reproducible analysis and downstream publication. Featured specimen: RMCA_ENT_000011071, *Ceratitis quilicii*.
 
 ## In plain language
 
@@ -29,7 +29,7 @@ The system is designed around six practical principles:
 
 **Collections first.** Physical specimens remain the biological foundation of the system.
 
-**Genomic vouchers.** DNA extracts and residual specimen material remain linked to the original collection record.
+**Voucher-linked genomics.** Physical voucher specimens anchor the identity of linked DNA extracts, residual specimen material and genomic datasets.
 
 **Laboratory traceability.** Structured MLab workbooks preserve wet-laboratory provenance.
 
@@ -38,10 +38,6 @@ The system is designed around six practical principles:
 **Reproducible research.** Code, configuration, manifests and audit summaries are versioned.
 
 **Public access.** Curated collection information can be published downstream through DARWIN when appropriate.
-
-![Why this system matters](assets/why_this_system_matters.jpg)
-
-Public highlights graphic. Fruit-fly reference: male *Ceratitis quilicii*, © Antoine Franck / CIRAD.
 
 ## Core lineage
 
