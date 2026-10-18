@@ -9,6 +9,12 @@ The public overview is intended to serve two audiences at the same time:
 
 The operational repository remains private because it contains detailed audit evidence, internal source material, operational metadata and local storage information.
 
+## At a glance
+
+![RMCA Tephritidae Collection Genomics workflow](assets/collection_genomics_workflow.jpg)
+
+*Graphical abstract of the five-system workflow. Fruit-fly reference: male* Ceratitis quilicii*, © Antoine Franck / CIRAD.*
+
 ## In plain language
 
 Natural-history collections are most useful when the physical specimen, the laboratory work performed on it, the DNA derived from it, the genomic data produced from that DNA and the analyses based on those data can all be traced back to one another.
@@ -32,6 +38,10 @@ The system is designed around six practical principles:
 **Reproducible research.** Code, configuration, manifests and audit summaries are versioned.
 
 **Public access.** Curated collection information can be published downstream through DARWIN when appropriate.
+
+![Why this system matters](assets/why_this_system_matters.jpg)
+
+*Public highlights graphic. Fruit-fly reference: male* Ceratitis quilicii*, © Antoine Franck / CIRAD.*
 
 ## Core lineage
 
