@@ -1,6 +1,6 @@
 # RMCA Tephritidae: From Collections to Genomics
 
-This directory contains the **public-safe source material** for the RMCA Tephritidae Collection Genomics overview.
+This directory contains the **public source material** for the RMCA Tephritidae Collection Genomics overview.
 
 The public overview is intended to serve two audiences at the same time:
 
@@ -15,7 +15,7 @@ The operational repository remains private because it contains detailed audit ev
 
 Graphical overview of the workflow linking collection vouchers, laboratory records, genomic files, reproducible analysis and downstream publication. Featured specimen: RMCA_ENT_000011071, *Ceratitis quilicii*.
 
-## In plain language
+
 
 Natural-history collections are most useful when the physical specimen, the laboratory work performed on it, the DNA derived from it, the genomic data produced from that DNA and the analyses based on those data can all be traced back to one another.
 
