@@ -1,32 +1,23 @@
 # Image Credits
 
-## Ceratitis quilicii
+## Current public graphical overview
 
-The fruit-fly visual reference used for public graphical material is:
+The current public infographic is:
 
-**Ceratitis quilicii**, male.
+`assets/RMCA_Tephritidae_From_Collections_to_Genomics.png`
 
-Image/reference credit:
+The featured specimen is:
 
-**© Antoine Franck / CIRAD**
+**RMCA_ENT_000011071**
 
-Source filename supplied for the project:
+*Ceratitis quilicii*
 
-`CquiliciiMale_(Antoine-FRANCK-CIRAD).jpg`
+The specimen photograph was supplied for this project as the authoritative biological visual reference. No separate photographer credit was provided with the image, so none is inferred here.
 
-Generated graphical abstracts use the supplied photograph as the taxonomic visual reference for the fruit fly.
+The infographic is an explanatory communication graphic. It should not be treated as a diagnostic taxonomic plate.
 
-The credit should remain associated with public uses of those graphics.
+## Retired graphical assets
 
-Public graphical assets using this reference:
+Earlier public draft graphics using a *Ceratitis quilicii* image credited to Antoine Franck / CIRAD were removed from the public repository when the consolidated RMCA specimen-based infographic replaced them.
 
-- `assets/collection_genomics_workflow.jpg`
-- `assets/why_this_system_matters.jpg`
-
-## Generated graphical material
-
-The graphical abstracts combine scientific information from the project with generated infographic elements.
-
-They should not be treated as diagnostic taxonomic plates.
-
-Where taxonomic accuracy matters, the original credited C. quilicii photograph remains the visual reference.
+Their former use remains documented in repository history and provenance records.
