@@ -63,9 +63,6 @@ Published assets:
   - SHA256: `8ee7520de14b64622ff1b25490410f4a75693c6a3943ca198b24b166295ee184`
   - Git blob: `20554149ded8a87340a524e50679e84b4690ee13`
 
-Both graphics use a male *Ceratitis quilicii* reference supplied for the project.
-
-Image/reference credit: **© Antoine Franck / CIRAD**.
 
 README embedding commit: `6f56beb8dbc7838137236ae984707bfb0fb8b89b`
 
@@ -91,5 +88,7 @@ Git blob: `a494f37e219b362e453ee59e18e7449a30100b93`
 File size: `1378517` bytes
 
 Featured specimen: `RMCA_ENT_000011071`, *Ceratitis quilicii*.
+
+Collection specimen image © Royal Museum for Central Africa (RMCA).
 
 The public README was updated to use the consolidated image only and the wording around genomic vouchers was revised to make the voucher-specimen anchoring role explicit.
