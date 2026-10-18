@@ -73,6 +73,8 @@ Image-credit linkage commit: `59411fcdacb0b6041e265cf3d3d3ad8efd56ba0e`
 
 Asset checksum documentation commit: `160eb438f70a285fb638092fbcc5dc8f82f38070`
 
+Credit-format correction commit: `694b0be9f79cf81dd1dc04771ad1c88d435816e4`
+
 ## Reproducibility principle
 
 The goal is that a public statement can be traced back to a versioned private source without exposing private collection records, storage paths, raw data or internal audit packages.
