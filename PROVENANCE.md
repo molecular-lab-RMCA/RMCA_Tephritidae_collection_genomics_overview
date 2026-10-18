@@ -48,7 +48,30 @@ Published text files:
 - `PROVENANCE.md`
 - `IMAGE_CREDITS.md`
 
-The two reviewed graphical abstracts are approved for the public overview but are not included in the content snapshot above. Their publication is recorded separately when the binary image assets are added.
+### Graphical-asset publication, 18 October 2026
+
+Binary asset publication/rename commit: `26221f8addaf42f0c621f3246529c09b810b53b4`
+
+Published assets:
+
+- `assets/collection_genomics_workflow.jpg`
+  - bytes: `247813`
+  - SHA256: `70bc4eed5b26430e6f14f29bc61c3ccde9876b22eb928324e3e6d1b9d22ef236`
+  - Git blob: `917ec5cd084b63130b533c674b75dcf05ac65ac1`
+- `assets/why_this_system_matters.jpg`
+  - bytes: `184054`
+  - SHA256: `8ee7520de14b64622ff1b25490410f4a75693c6a3943ca198b24b166295ee184`
+  - Git blob: `20554149ded8a87340a524e50679e84b4690ee13`
+
+Both graphics use a male *Ceratitis quilicii* reference supplied for the project.
+
+Image/reference credit: **© Antoine Franck / CIRAD**.
+
+README embedding commit: `6f56beb8dbc7838137236ae984707bfb0fb8b89b`
+
+Image-credit linkage commit: `59411fcdacb0b6041e265cf3d3d3ad8efd56ba0e`
+
+Asset checksum documentation commit: `160eb438f70a285fb638092fbcc5dc8f82f38070`
 
 ## Reproducibility principle
 
