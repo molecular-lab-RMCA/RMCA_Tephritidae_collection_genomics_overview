@@ -41,7 +41,6 @@ analysis
 publication when appropriate
 ```
 
-A separate sample is created only when a genuinely distinct physical tissue or body-material object exists. Laboratory rows or labels do not create new biological entities by themselves.
 
 ## Systems and authority
 
