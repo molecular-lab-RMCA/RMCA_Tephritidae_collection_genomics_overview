@@ -54,7 +54,6 @@ No single platform is the complete system.
 | **GitHub** | Versioned code, configuration, manifests and audit evidence |
 | **DARWIN** | Downstream institutional publication layer |
 
-Authority is object-specific. A checksum can establish byte identity of a file, but biological identity comes from the curated voucher and its provenance chain.
 
 ## Technical documentation
 
